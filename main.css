@@ -1,0 +1,35 @@
+h1, p{
+	margin: 0 auto;
+}
+.jumbotron{
+	background: url(img/header.jpg) center/cover no-repeat;
+	height: 60vh;
+	position: relative;
+}
+#first{
+	right:100%;
+	display: none;
+}
+#second{
+	padding-left: 10%;
+	left:100%;
+	
+}
+nav{
+	text-align: center;
+}
+.row{
+	padding-bottom: 5%;
+	min-height: 50vh;
+
+}
+#podpis{
+	color:white;
+	text-align: center;
+
+}
+img{
+	width: 40px;
+	height: 40px;
+}
+
